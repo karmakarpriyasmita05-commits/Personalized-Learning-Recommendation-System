@@ -126,6 +126,14 @@ streamlit run app.py
 
 The application will open in your default web browser.
 
+## Application Screenshots
+
+### Student Dashboard
+![Student Dashboard](screenshots/dashboard.png)
+
+### Personalized Recommendations
+![Recommendations](screenshots/recommendations.png)
+
 ## How the System Works
 
 1. The user enters their learning profile and academic information.
