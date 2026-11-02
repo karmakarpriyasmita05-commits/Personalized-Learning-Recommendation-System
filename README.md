@@ -129,7 +129,7 @@ The application will open in your default web browser.
 ## Application Screenshots
 
 ### Student Dashboard
-![Student Dashboard](screenshots/dashboard.png)
+![Student Dashboard](dashboard.png)
 
 ### Personalized Recommendations
 ![Recommendations](screenshots/recommendations.png)
