@@ -132,7 +132,7 @@ The application will open in your default web browser.
 ![Student Dashboard](dashboard.png)
 
 ### Personalized Recommendations
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](recommendations.png)
 
 ## How the System Works
 
