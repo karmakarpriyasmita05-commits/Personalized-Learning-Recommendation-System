@@ -1,0 +1,105 @@
+resource_id,category,topic,resource_type,difficulty,estimated_minutes,description,url
+R001,Python,Variables,Video,Intermediate,30,A concise video lesson with worked examples.,https://www.w3schools.com/python/python_variables.asp
+R002,Python,Variables,Article,Advanced,10,A structured reading resource with key definitions and examples.,https://www.w3schools.com/python/python_variables.asp
+R003,Python,Variables,Quiz,Beginner,15,A short interactive quiz with feedback.,https://www.w3schools.com/python/python_variables.asp
+R004,Python,Variables,Practice,Intermediate,40,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/python/python_variables.asp
+R005,Python,Conditions,Video,Beginner,40,A concise video lesson with worked examples.,https://www.w3schools.com/python/python_conditions.asp
+R006,Python,Conditions,Article,Intermediate,10,A structured reading resource with key definitions and examples.,https://www.w3schools.com/python/python_conditions.asp
+R007,Python,Conditions,Quiz,Advanced,40,A short interactive quiz with feedback.,https://www.w3schools.com/python/python_conditions.asp
+R008,Python,Conditions,Practice,Beginner,20,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/python/python_conditions.asp
+R009,Python,Loops,Video,Advanced,15,A concise video lesson with worked examples.,https://www.w3schools.com/python/python_for_loops.asp
+R010,Python,Loops,Article,Beginner,40,A structured reading resource with key definitions and examples.,https://www.w3schools.com/python/python_for_loops.asp
+R011,Python,Loops,Quiz,Intermediate,15,A short interactive quiz with feedback.,https://www.w3schools.com/python/python_for_loops.asp
+R012,Python,Loops,Practice,Advanced,10,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/python/python_for_loops.asp
+R013,Python,Functions,Video,Intermediate,15,A concise video lesson with worked examples.,https://www.w3schools.com/python/python_functions.asp
+R014,Python,Functions,Article,Advanced,10,A structured reading resource with key definitions and examples.,https://www.w3schools.com/python/python_functions.asp
+R015,Python,Functions,Quiz,Beginner,20,A short interactive quiz with feedback.,https://www.w3schools.com/python/python_functions.asp
+R016,Python,Functions,Practice,Intermediate,10,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/python/python_functions.asp
+R017,Python,Collections,Video,Intermediate,15,A concise video lesson with worked examples.,https://www.w3schools.com/python/python_lists.asp
+R018,Python,Collections,Article,Advanced,15,A structured reading resource with key definitions and examples.,https://www.w3schools.com/python/python_lists.asp
+R019,Python,Collections,Quiz,Beginner,30,A short interactive quiz with feedback.,https://www.w3schools.com/python/python_lists.asp
+R020,Python,Collections,Practice,Intermediate,40,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/python/python_lists.asp
+R021,Python,File Handling,Video,Intermediate,10,A concise video lesson with worked examples.,https://www.w3schools.com/python/python_file_handling.asp
+R022,Python,File Handling,Article,Advanced,30,A structured reading resource with key definitions and examples.,https://www.w3schools.com/python/python_file_handling.asp
+R023,Python,File Handling,Quiz,Beginner,10,A short interactive quiz with feedback.,https://www.w3schools.com/python/python_file_handling.asp
+R024,Python,File Handling,Practice,Intermediate,40,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/python/python_file_handling.asp
+R025,Data Science,NumPy,Video,Beginner,15,A concise video lesson with worked examples.,https://numpy.org/learn/
+R026,Data Science,NumPy,Article,Intermediate,40,A structured reading resource with key definitions and examples.,https://numpy.org/learn/
+R027,Data Science,NumPy,Quiz,Advanced,30,A short interactive quiz with feedback.,https://numpy.org/learn/
+R028,Data Science,NumPy,Practice,Beginner,15,A hands-on exercise with step-by-step tasks.,https://numpy.org/learn/
+R029,Data Science,Pandas,Video,Advanced,15,A concise video lesson with worked examples.,https://pandas.pydata.org/docs/getting_started/
+R030,Data Science,Pandas,Article,Beginner,15,A structured reading resource with key definitions and examples.,https://pandas.pydata.org/docs/getting_started/
+R031,Data Science,Pandas,Quiz,Intermediate,20,A short interactive quiz with feedback.,https://pandas.pydata.org/docs/getting_started/
+R032,Data Science,Pandas,Practice,Advanced,20,A hands-on exercise with step-by-step tasks.,https://pandas.pydata.org/docs/getting_started/
+R033,Data Science,Data Cleaning,Video,Intermediate,30,A concise video lesson with worked examples.,https://pandas.pydata.org/docs/user_guide/missing_data.html
+R034,Data Science,Data Cleaning,Article,Advanced,20,A structured reading resource with key definitions and examples.,https://pandas.pydata.org/docs/user_guide/missing_data.html
+R035,Data Science,Data Cleaning,Quiz,Beginner,30,A short interactive quiz with feedback.,https://pandas.pydata.org/docs/user_guide/missing_data.html
+R036,Data Science,Data Cleaning,Practice,Intermediate,20,A hands-on exercise with step-by-step tasks.,https://pandas.pydata.org/docs/user_guide/missing_data.html
+R037,Data Science,EDA,Video,Intermediate,15,A concise video lesson with worked examples.,https://www.kaggle.com/learn
+R038,Data Science,EDA,Article,Advanced,15,A structured reading resource with key definitions and examples.,https://www.kaggle.com/learn
+R039,Data Science,EDA,Quiz,Beginner,30,A short interactive quiz with feedback.,https://www.kaggle.com/learn
+R040,Data Science,EDA,Practice,Intermediate,10,A hands-on exercise with step-by-step tasks.,https://www.kaggle.com/learn
+R041,Data Science,Visualization,Video,Beginner,15,A concise video lesson with worked examples.,https://matplotlib.org/stable/tutorials/
+R042,Data Science,Visualization,Article,Intermediate,15,A structured reading resource with key definitions and examples.,https://matplotlib.org/stable/tutorials/
+R043,Data Science,Visualization,Quiz,Advanced,30,A short interactive quiz with feedback.,https://matplotlib.org/stable/tutorials/
+R044,Data Science,Visualization,Practice,Beginner,10,A hands-on exercise with step-by-step tasks.,https://matplotlib.org/stable/tutorials/
+R045,Data Science,Statistics,Video,Intermediate,20,A concise video lesson with worked examples.,https://www.khanacademy.org/math/statistics-probability
+R046,Data Science,Statistics,Article,Advanced,30,A structured reading resource with key definitions and examples.,https://www.khanacademy.org/math/statistics-probability
+R047,Data Science,Statistics,Quiz,Beginner,40,A short interactive quiz with feedback.,https://www.khanacademy.org/math/statistics-probability
+R048,Data Science,Statistics,Practice,Intermediate,20,A hands-on exercise with step-by-step tasks.,https://www.khanacademy.org/math/statistics-probability
+R049,Machine Learning,Preprocessing,Video,Advanced,40,A concise video lesson with worked examples.,https://scikit-learn.org/stable/modules/preprocessing.html
+R050,Machine Learning,Preprocessing,Article,Beginner,30,A structured reading resource with key definitions and examples.,https://scikit-learn.org/stable/modules/preprocessing.html
+R051,Machine Learning,Preprocessing,Quiz,Intermediate,30,A short interactive quiz with feedback.,https://scikit-learn.org/stable/modules/preprocessing.html
+R052,Machine Learning,Preprocessing,Practice,Advanced,15,A hands-on exercise with step-by-step tasks.,https://scikit-learn.org/stable/modules/preprocessing.html
+R053,Machine Learning,Regression,Video,Beginner,40,A concise video lesson with worked examples.,https://scikit-learn.org/stable/supervised_learning.html
+R054,Machine Learning,Regression,Article,Intermediate,15,A structured reading resource with key definitions and examples.,https://scikit-learn.org/stable/supervised_learning.html
+R055,Machine Learning,Regression,Quiz,Advanced,10,A short interactive quiz with feedback.,https://scikit-learn.org/stable/supervised_learning.html
+R056,Machine Learning,Regression,Practice,Beginner,10,A hands-on exercise with step-by-step tasks.,https://scikit-learn.org/stable/supervised_learning.html
+R057,Machine Learning,Classification,Video,Advanced,30,A concise video lesson with worked examples.,https://scikit-learn.org/stable/supervised_learning.html
+R058,Machine Learning,Classification,Article,Beginner,30,A structured reading resource with key definitions and examples.,https://scikit-learn.org/stable/supervised_learning.html
+R059,Machine Learning,Classification,Quiz,Intermediate,10,A short interactive quiz with feedback.,https://scikit-learn.org/stable/supervised_learning.html
+R060,Machine Learning,Classification,Practice,Advanced,40,A hands-on exercise with step-by-step tasks.,https://scikit-learn.org/stable/supervised_learning.html
+R061,Machine Learning,Clustering,Video,Advanced,15,A concise video lesson with worked examples.,https://scikit-learn.org/stable/modules/clustering.html
+R062,Machine Learning,Clustering,Article,Beginner,30,A structured reading resource with key definitions and examples.,https://scikit-learn.org/stable/modules/clustering.html
+R063,Machine Learning,Clustering,Quiz,Intermediate,20,A short interactive quiz with feedback.,https://scikit-learn.org/stable/modules/clustering.html
+R064,Machine Learning,Clustering,Practice,Advanced,20,A hands-on exercise with step-by-step tasks.,https://scikit-learn.org/stable/modules/clustering.html
+R065,Machine Learning,Model Evaluation,Video,Beginner,30,A concise video lesson with worked examples.,https://scikit-learn.org/stable/modules/model_evaluation.html
+R066,Machine Learning,Model Evaluation,Article,Intermediate,40,A structured reading resource with key definitions and examples.,https://scikit-learn.org/stable/modules/model_evaluation.html
+R067,Machine Learning,Model Evaluation,Quiz,Advanced,30,A short interactive quiz with feedback.,https://scikit-learn.org/stable/modules/model_evaluation.html
+R068,Machine Learning,Model Evaluation,Practice,Beginner,40,A hands-on exercise with step-by-step tasks.,https://scikit-learn.org/stable/modules/model_evaluation.html
+R069,Web Development,HTML,Video,Intermediate,40,A concise video lesson with worked examples.,https://www.w3schools.com/html/
+R070,Web Development,HTML,Article,Advanced,15,A structured reading resource with key definitions and examples.,https://www.w3schools.com/html/
+R071,Web Development,HTML,Quiz,Beginner,20,A short interactive quiz with feedback.,https://www.w3schools.com/html/
+R072,Web Development,HTML,Practice,Intermediate,10,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/html/
+R073,Web Development,CSS,Video,Intermediate,40,A concise video lesson with worked examples.,https://www.w3schools.com/css/
+R074,Web Development,CSS,Article,Advanced,40,A structured reading resource with key definitions and examples.,https://www.w3schools.com/css/
+R075,Web Development,CSS,Quiz,Beginner,40,A short interactive quiz with feedback.,https://www.w3schools.com/css/
+R076,Web Development,CSS,Practice,Intermediate,30,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/css/
+R077,Web Development,JavaScript,Video,Beginner,40,A concise video lesson with worked examples.,https://www.w3schools.com/js/
+R078,Web Development,JavaScript,Article,Intermediate,30,A structured reading resource with key definitions and examples.,https://www.w3schools.com/js/
+R079,Web Development,JavaScript,Quiz,Advanced,15,A short interactive quiz with feedback.,https://www.w3schools.com/js/
+R080,Web Development,JavaScript,Practice,Beginner,15,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/js/
+R081,Web Development,APIs,Video,Intermediate,20,A concise video lesson with worked examples.,https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview
+R082,Web Development,APIs,Article,Advanced,20,A structured reading resource with key definitions and examples.,https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview
+R083,Web Development,APIs,Quiz,Beginner,30,A short interactive quiz with feedback.,https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview
+R084,Web Development,APIs,Practice,Intermediate,30,A hands-on exercise with step-by-step tasks.,https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview
+R085,Web Development,Frontend Basics,Video,Intermediate,40,A concise video lesson with worked examples.,https://developer.mozilla.org/en-US/docs/Learn_web_development
+R086,Web Development,Frontend Basics,Article,Advanced,30,A structured reading resource with key definitions and examples.,https://developer.mozilla.org/en-US/docs/Learn_web_development
+R087,Web Development,Frontend Basics,Quiz,Beginner,10,A short interactive quiz with feedback.,https://developer.mozilla.org/en-US/docs/Learn_web_development
+R088,Web Development,Frontend Basics,Practice,Intermediate,15,A hands-on exercise with step-by-step tasks.,https://developer.mozilla.org/en-US/docs/Learn_web_development
+R089,Databases,SQL Basics,Video,Beginner,15,A concise video lesson with worked examples.,https://www.w3schools.com/sql/
+R090,Databases,SQL Basics,Article,Intermediate,30,A structured reading resource with key definitions and examples.,https://www.w3schools.com/sql/
+R091,Databases,SQL Basics,Quiz,Advanced,15,A short interactive quiz with feedback.,https://www.w3schools.com/sql/
+R092,Databases,SQL Basics,Practice,Beginner,40,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/sql/
+R093,Databases,Joins,Video,Advanced,15,A concise video lesson with worked examples.,https://www.w3schools.com/sql/sql_join.asp
+R094,Databases,Joins,Article,Beginner,20,A structured reading resource with key definitions and examples.,https://www.w3schools.com/sql/sql_join.asp
+R095,Databases,Joins,Quiz,Intermediate,40,A short interactive quiz with feedback.,https://www.w3schools.com/sql/sql_join.asp
+R096,Databases,Joins,Practice,Advanced,15,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/sql/sql_join.asp
+R097,Databases,Aggregation,Video,Beginner,10,A concise video lesson with worked examples.,https://www.w3schools.com/sql/sql_groupby.asp
+R098,Databases,Aggregation,Article,Intermediate,15,A structured reading resource with key definitions and examples.,https://www.w3schools.com/sql/sql_groupby.asp
+R099,Databases,Aggregation,Quiz,Advanced,15,A short interactive quiz with feedback.,https://www.w3schools.com/sql/sql_groupby.asp
+R100,Databases,Aggregation,Practice,Beginner,30,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/sql/sql_groupby.asp
+R101,Databases,Database Design,Video,Advanced,30,A concise video lesson with worked examples.,https://www.w3schools.com/sql/sql_create_table.asp
+R102,Databases,Database Design,Article,Beginner,20,A structured reading resource with key definitions and examples.,https://www.w3schools.com/sql/sql_create_table.asp
+R103,Databases,Database Design,Quiz,Intermediate,20,A short interactive quiz with feedback.,https://www.w3schools.com/sql/sql_create_table.asp
+R104,Databases,Database Design,Practice,Advanced,20,A hands-on exercise with step-by-step tasks.,https://www.w3schools.com/sql/sql_create_table.asp
